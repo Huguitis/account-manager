@@ -1,11 +1,8 @@
-**CREA O MODIFICA UN ARCHIVO .env Y AÑADELE ESTOS VALORES: (Si estas en repl.it, el archivo .env está en la barra lateral izquieda, si necesitas ayuda contactanos: https://discord.link/huguitis)**
-
-**VALORES:**
-token: El token de tu bot.
+Token: El token de tu bot.
 Prefix: El prefix de tu bot.
 
-ownerid: ID de tu cuenta de Discord.
-logschannel: ID del canal donde se enviarán todos los logs.
+OwnerID: ID de tu cuenta de Discord.
+LogsChannel: ID del canal donde se enviarán todos los logs.
 
-goodemoji: El emoji que el bot usará cuando una acción sea correcta o cuando una opción está activada.
-bademoji: El emoji que el bot usará cuando una acción sea incorrecta o cuando una opción está desactivada.
+GoodEmoji: El emoji que el bot usará cuando una acción sea correcta o cuando una opción está activada.
+BadEmoji: El emoji que el bot usará cuando una acción sea incorrecta o cuando una opción está desactivada.

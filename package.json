@@ -12,6 +12,6 @@
   "author": "HuguitisYT",
   "license": "MIT",
   "dependencies": {
-    "accountmanagerbot": "^1.0.3"
+    "aoi.js": "^4.5.0"
   }
 }

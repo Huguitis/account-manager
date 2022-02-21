@@ -1,0 +1,10 @@
+{
+    "token": "Bot token",
+    "prefix": "+",
+
+    "ownerid": "Ur id",
+    "logschannel": "channel id",
+
+    "goodemoji": ":thumbsup:",
+    "bademoji": ":x:"
+}
