@@ -1,8 +1,0 @@
-Token: El token de tu bot.
-Prefix: El prefix de tu bot.
-
-OwnerID: ID de tu cuenta de Discord.
-LogsChannel: ID del canal donde se enviarán todos los logs.
-
-GoodEmoji: El emoji que el bot usará cuando una acción sea correcta o cuando una opción está activada.
-BadEmoji: El emoji que el bot usará cuando una acción sea incorrecta o cuando una opción está desactivada.
